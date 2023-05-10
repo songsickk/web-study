@@ -1,3 +1,3 @@
-#kokoa clone 2023
+# kokoa clone 2023
 
-html/css go better
+html/css are so much fun!!!
