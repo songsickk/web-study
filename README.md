@@ -1,3 +1,3 @@
-# kokoa clone 2023
+# WEB STUDY
 
-html/css are so much fun!!!
+HTML/CSS?js
