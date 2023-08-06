@@ -1,3 +1,3 @@
 # WEB STUDY
 
-HTML/CSS?js
+HTML/CSS/js
